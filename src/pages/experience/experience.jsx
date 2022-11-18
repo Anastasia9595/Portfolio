@@ -32,7 +32,7 @@ const Experience = () => {
   ];
 
   const databases = [
-    { Image: ms_sql_logo, text: "MsSQL" },
+    { Image: ms_sql_logo, text: "MSSQL" },
     { Image: mysql_logo, text: "MySQL" },
     { Image: firebase_logo, text: "Firebase" },
   ];
