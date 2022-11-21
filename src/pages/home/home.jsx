@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className=" min-h-screen flex py-10 md:flex-row flex-col items-center">
+      className="bg-[#22085a] min-h-screen flex py-10 md:flex-row flex-col items-center">
       <div className="flex-1 flex items-center justify-center h-full">
         <img
           src={home_image}
