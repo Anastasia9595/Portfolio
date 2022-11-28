@@ -27,7 +27,7 @@ const Contact = () => {
               <div
                 key={i}
                 className="flex flex-row text-left gap-4 flex-wrap items-center">
-                <div className="min-w-[3.5rem]  text-3xl min-h-[3.5rem] flex items-center justify-center text-white bg-[#572db1] rounded-full">
+                <div className="min-w-[3.5rem]  text-3xl min-h-[3.5rem] flex items-center justify-center text-white  rounded-full">
                   <ion-icon name={contact.logo}></ion-icon>
                 </div>
                 <p className="md:text-base text-sm  break-words">

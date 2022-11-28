@@ -30,3 +30,11 @@ textarea {
 ::placeholder {
   @apply text-lg;
 }
+
+ion-icon {
+  font-size: 2.5rem;
+  color: #1eeffd;
+}
+.icons {
+  color: #1eeffd;
+}

@@ -5,7 +5,7 @@ import book_img from "../../assets/book.png";
 import drawing_img from "../../assets/drawing.png";
 import cv from "../../assets/CV.pdf";
 import profileImg from "../../assets/profile.jpg";
-import about_me_img from "../../assets/about_me.png";
+// import about_me_img from "../../assets/about_me.png";
 
 const About = () => {
   const info = [
@@ -23,7 +23,6 @@ const About = () => {
           About <span className="text-[#1EEFFD]">Me</span>
         </h3>
 
-        <img src={about_me_img} alt="img" />
         <div className="flex md:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto">
           <div className="p-2">
             <div className="text-gray-300 my-3">
